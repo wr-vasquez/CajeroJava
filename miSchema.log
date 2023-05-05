@@ -1,0 +1,37 @@
+
+Conectado a: Oracle Database 10g Express Edition Release 10.2.0.1.0 - Production
+Exportación realizada en el juego de caracteres WE8MSWIN1252 y el juego de caracteres NCHAR AL16UTF16
+el servidor utiliza el juego de caracteres AL32UTF8 (posible conversión de juego de caracteres)
+
+Exportando los usuarios especificados ...
+. exportando acciones y objetos de procedimiento pre-esquema
+. exportando nombres de biblioteca de funciones ajenas para el usuario ALEJANDRO 
+. exportando sinónimos de tipo público
+. exportando sinónimos de tipo privado
+. exportando definiciones de tipos de objetos para el usuario ALEJANDRO 
+Exportando los objetos de ALEJANDRO  ...
+. exportando enlaces a la base de datos
+. exportando números de secuencia
+. exportando definiciones de cluster
+. exportando las tablas de ALEJANDRO a través de la Ruta de Acceso Convencional ...
+. exportando la tabla                 CUENTA_AHORROS          3 filas exportadas
+. exportando la tabla               CUENTA_MONETARIA          2 filas exportadas
+. exportando la tabla                          LOGIN          5 filas exportadas
+. exportando la tabla                        USUARIO          5 filas exportadas
+. exportando sinónimos
+. exportando vistas
+. exportando procedimientos almacenados
+. exportando operadores
+. exportando restricciones de integridad referencial
+. exportando disparadores
+. exportando tipos de índice
+. exportando índices bitmap, funcionales y extensibles
+. exportando acciones de posttables
+. exportando vistas materializadas
+. exportando logs de instantáneas
+. exportando colas de trabajo
+. exportando grupos de refrescamiento y secundarios
+. exportando dimensiones
+. exportando acciones y objetos de procedimiento post-esquema
+. exportando estadísticas
+La exportación ha terminado correctamente y sin advertencias.
